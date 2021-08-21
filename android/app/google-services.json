@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433399474805",
+    "project_id": "flutter-stripe-practice",
+    "storage_bucket": "flutter-stripe-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433399474805:android:5e6f0282ccc39f99ab263c",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433399474805-uoua554405drk7tuu7i1nmv2a50im7q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzhB3x9yGYi55sB8HxRak3AovBozUYvSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433399474805-uoua554405drk7tuu7i1nmv2a50im7q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
